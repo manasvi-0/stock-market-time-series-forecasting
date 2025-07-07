@@ -39,7 +39,7 @@ stock-market-time-series-forecasting/
 │   └── 05_LSTM_Model.ipynb
 │
 ├── visuals/                # Plots and visualizations
-├── app/                    # Streamlit app (optional)
+├── app/                    # Streamlit app
 ├── reports/                # Final report and presentation
 │   └── Time_Series_Stock_Market_Report.pdf
 ├── requirements.txt
