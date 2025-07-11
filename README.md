@@ -30,17 +30,13 @@ This project analyzes and forecasts stock market trends using **time series anal
 ```
 stock-market-time-series-forecasting/
 │
-├── data/                   # Contains raw and cleaned stock data
-├── notebooks/              # Jupyter notebooks for each model
-│   ├── 01_EDA_Preprocessing.ipynb
-│   ├── 02_ARIMA_Model.ipynb
-│   ├── 03_SARIMA_Model.ipynb
-│   ├── 04_Prophet_Model.ipynb
-│   └── 05_LSTM_Model.ipynb
+├── data/                   
+├── notebooks/              
+│   ├──Time_series.ipynb
 │
-├── visuals/                # Plots and visualizations
-├── app/                    # Streamlit app
-├── reports/                # Final report and presentation
+├── visuals/              
+├── app/                    
+├── reports/                
 │   └── Time_Series_Stock_Market_Report.pdf
 ├── requirements.txt
 ├── README.md
@@ -63,10 +59,10 @@ stock-market-time-series-forecasting/
 
 | Model   | RMSE   | MAPE   | Comments            |
 |---------|--------|--------|---------------------|
-| ARIMA   | 11.2   | 3.5%   | Baseline model      |
-| SARIMA  | 9.8    | 3.1%   | Seasonal adjustment |
+| ARIMA   | 4.68   | 1.84%  | Baseline model      |
+| SARIMA  | 4.68   | 1.84   | Seasonal adjustment |
 | Prophet | 10.1   | 3.0%   | Auto trend capture  |
-| LSTM    | 7.9    | 2.4%   | Best performance    |
+| LSTM    | 6.37   | 2.59%  | Best performance    |
 
 ---
 
