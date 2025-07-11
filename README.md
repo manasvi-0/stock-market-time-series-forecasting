@@ -31,13 +31,10 @@ This project analyzes and forecasts stock market trends using **time series anal
 stock-market-time-series-forecasting/
 │
 ├── data/                   
-├── notebooks/              
+├── notebook/              
 │   ├──Time_series.ipynb
-│
 ├── visuals/              
 ├── app/                    
-├── reports/                
-│   └── Time_Series_Stock_Market_Report.pdf
 ├── requirements.txt
 ├── README.md
 ```
@@ -66,14 +63,6 @@ stock-market-time-series-forecasting/
 
 ---
 
-
-## 📄 Report
-
-You can find the full project report here:  
-📎 [Time_Series_Stock_Market_Report.pdf](./reports/Time_Series_Stock_Market_Report.pdf)
-
----
-
 ## 📌 Learning Outcomes
 
 - Mastered time series forecasting techniques.
@@ -87,7 +76,8 @@ You can find the full project report here:
 
 **Manasvi Jindal**  
 📧 manasvijindal57@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/manasvi-jindal-03aa6a278/))  
-🔗 [Link to the project ]((https://g71llzdl-8501.use2.devtunnels.ms/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/manasvi-jindal-03aa6a278/)  
+🚀 [Project Link](https://g71llzdl-8501.use2.devtunnels.ms/)
+
 
 
