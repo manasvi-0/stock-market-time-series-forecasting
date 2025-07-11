@@ -40,9 +40,9 @@ stock-market-time-series-forecasting/
 |      │   ├── stock_analysis.py
 |      │   └── stock_prediction.py
 |      └── utils/
-|           ├── __init__.py
+|          ├── __init__.py
 |          ├── model_train.py
-|           └── plotly_figure.py
+|          └── plotly_figure.py
 |               
 ├── README.md
 ```
