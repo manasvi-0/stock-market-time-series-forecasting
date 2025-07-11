@@ -29,12 +29,21 @@ This project analyzes and forecasts stock market trends using **time series anal
 
 ```
 stock-market-time-series-forecasting/
-│
-├── data/                              
+│                             
 |-─Time_series.ipynb
 ├── visuals/              
-├── Stock-Market/                   
-├── requirements.txt
+├── Stock-Market/
+|      ├── SOURCES
+|      ├── app.png
+|      ├── Trading_App.py
+|      ├── pages/
+|      │   ├── stock_analysis.py
+|      │   └── stock_prediction.py
+|      └── utils/
+|           ├── __init__.py
+|          ├── model_train.py
+|           └── plotly_figure.py
+|               
 ├── README.md
 ```
 
