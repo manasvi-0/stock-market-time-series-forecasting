@@ -30,11 +30,10 @@ This project analyzes and forecasts stock market trends using **time series anal
 ```
 stock-market-time-series-forecasting/
 │
-├── data/                   
-├── notebook/              
-│   ├──Time_series.ipynb
+├── data/                              
+|-─Time_series.ipynb
 ├── visuals/              
-├── app/                    
+├── Stock-Market/                   
 ├── requirements.txt
 ├── README.md
 ```
