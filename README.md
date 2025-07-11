@@ -92,6 +92,6 @@ You can find the full project report here:
 **Manasvi Jindal**  
 📧 manasvijindal57@gmail.com  
 🔗 [LinkedIn]((https://www.linkedin.com/in/manasvi-jindal-03aa6a278/))  
-
+🔗 [Link to the project ]((https://g71llzdl-8501.use2.devtunnels.ms/))  
 
 
