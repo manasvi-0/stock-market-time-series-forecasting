@@ -47,7 +47,7 @@ stock-market-time-series-forecasting/
 |          ├── __init__.py
 |          ├── model_train.py
 |          └── plotly_figure.py
-|               
+├── demo.gif 
 ├── README.md
 ```
 
