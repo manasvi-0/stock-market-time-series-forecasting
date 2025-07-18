@@ -24,6 +24,10 @@ This project analyzes and forecasts stock market trends using **time series anal
 - **Visualization:** Plotly, Seaborn, Matplotlib
 
 ---
+## 🎬 Live Demo Preview
+
+![Demo](demo.gif)
+
 
 ## 📁 Folder Structure
 
